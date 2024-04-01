@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aman Dubey</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" width="300" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
+<img align="right" width="300" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
 - 👻 My passion lies in the **intricate dance of front-end frameworks and back-end technologies.**
 
